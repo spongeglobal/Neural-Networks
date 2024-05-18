@@ -1,0 +1,13 @@
+Input Variables (X):
+
+Number of times pregnant
+Plasma glucose concentration at 2 hours in an oral glucose tolerance test
+Diastolic blood pressure (mm Hg)
+Triceps skin fold thickness (mm)
+2-hour serum insulin (mu U/ml)
+Body mass index (weight in kg/(height in m)^2)
+Diabetes pedigree function
+Age (years)
+Output Variables (y):
+
+Class variable (0 or 1)
